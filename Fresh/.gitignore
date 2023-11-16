@@ -1,0 +1,8 @@
+Experiments
+commands.txt
+*.o
+ads/autom4te.cache/
+ads/bin/ads
+ads/lib/libads.a
+
+*.bin
